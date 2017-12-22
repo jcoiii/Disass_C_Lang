@@ -15,6 +15,14 @@ Hasil Disassmble <br />
 Program di mulai dari line ke-5 hasil disassemble <br />
 Disassmble dapat di lihat di folder /Gambar  <br />
 
+*Laporan Debug
+-Program dapat di compile
+-Program dapat di run dengan gdb
+-Program tidak dapat di run.
+
+-saat melakukan debugging, dapat diketahui nilai apa yang akan dikeluarkan oleh program. <br />
+
+
 Trouble  <br />
 22-12-17 <br />
 Program yang dibuat sesuai atau tidak ?
