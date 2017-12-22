@@ -1,1 +1,1 @@
-[]!(/Gambar/1.png)
+![](/Gambar/1.png)
