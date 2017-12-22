@@ -13,7 +13,7 @@ Progress Report  <br />
 Hasil Disassmble <br />
 
 Program di mulai dari line ke-5 hasil disassemble <br />
-
+Disassmble dapat di lihat di folder /Gambar  <br />
 
 Trouble  <br />
 22-12-17 <br />
