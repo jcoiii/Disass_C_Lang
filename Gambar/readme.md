@@ -1,1 +1,1 @@
-Gambar Gambar
+[](/Gambar/1.png)
