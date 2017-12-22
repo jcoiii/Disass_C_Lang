@@ -17,5 +17,4 @@ Disassmble dapat di lihat di folder /Gambar  <br />
 
 Trouble  <br />
 22-12-17 <br />
-*Program lupa dipindahkan ke windows, Komputer tidak dapat boot kedalam linux......... <br />
-*Sedang tahap recovery.
+Program yang dibuat sesuai atau tidak ?
