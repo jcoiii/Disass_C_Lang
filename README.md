@@ -1,21 +1,21 @@
 # Disass_C_Lang
 Tugas Akhir IME-301
 
-Progress Report
-20-12-17 
--Program dicoba untuk dibuat 
--terdapat beberapa trial
+Progress Report  <br />
+20-12-17  <br />
+-Program dicoba untuk dibuat  <br />
+-terdapat beberapa trial <br />
 
-22-12-17
--Program dapat di run
--program di disassmble 
+22-12-17 <br />
+-Program dapat di run <br />
+-program di disassmble  <br />
 
-Hasil Disassmble
+Hasil Disassmble <br />
 
-Program di mulai dari line ke-5 hasil disassble
+Program di mulai dari line ke-5 hasil disassemble <br />
 
 
-Trouble 
-22-12-17
-*Program lupa dipindahkan ke windows, Komputer tidak dapat boot kedalam linux.........
+Trouble  <br />
+22-12-17 <br />
+*Program lupa dipindahkan ke windows, Komputer tidak dapat boot kedalam linux......... <br />
 *Sedang tahap recovery.
