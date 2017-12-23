@@ -12,6 +12,9 @@ Progress Report  <br />
 
 Hasil Disassmble <br />
 
+Pada Hasil disassmble terdapat rbp sebagai base register dan rsp sebagai stack register <br />
+rbp dan rsp adalah special purpose register
+
 Program di mulai dari line ke-5 hasil disassemble <br />
 Disassmble dapat di lihat di folder /Gambar  <br />
 
