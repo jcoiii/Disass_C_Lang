@@ -16,9 +16,9 @@ Program di mulai dari line ke-5 hasil disassemble <br />
 Disassmble dapat di lihat di folder /Gambar  <br />
 
 *Laporan Debug
--Program dapat di compile
--Program dapat di run dengan gdb
--Program tidak dapat di run.
+-Program dapat di compile <br />
+-Program dapat di run dengan gdb <br />
+-Program tidak dapat di run. <br />
 
 -saat melakukan debugging, dapat diketahui nilai apa yang akan dikeluarkan oleh program. <br />
 
